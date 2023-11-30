@@ -578,7 +578,7 @@ footer>section>nav>a>img{
   
     position: sticky;
     bottom: 20px;      
-    left: 75rem;
+    left: 89%;
     margin-right:10px; 
     place-self: end;
     margin-top: calc(100vh + var(--offset));
