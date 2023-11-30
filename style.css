@@ -790,6 +790,9 @@ padding-right: 5px;}
        margin-bottom: 0;
     }
 
+    .spanAdress>a>article {
+        flex-direction: column;
+    }
     .maps>figure>a>img{
         width: 100%;
         max-width: 325px;
