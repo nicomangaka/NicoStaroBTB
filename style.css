@@ -358,6 +358,7 @@ section:nth-of-type(2){
 .galerie>figure>img{
     width: 100%;
     max-width: 450px;
+    max-height: 637px;
     padding-right: 0.8rem;
     padding-bottom: 2rem;
 }
@@ -367,6 +368,10 @@ section:nth-of-type(2){
 }
 .galerie>figure>img:last-of-type::after{
     padding-right: 0;
+}
+
+.galerie>figure>img:last-of-type{
+    margin-top: 4rem;
 }
 
 
@@ -382,11 +387,11 @@ section:nth-of-type(2){
     margin-bottom: 2rem;
 }
 .galerie>figure:nth-of-type(2) :nth-child(2){
-    margin-top: 2rem;
+    margin-top: 4rem;
 }
 
 .galerie>figure:nth-of-type(2) :last-child{
-    margin-top: 6rem;
+    margin-top: 8rem;
     padding-bottom: 2rem;
 }
 
@@ -728,7 +733,9 @@ padding-right: 5px;}
     .galerie>figure:nth-of-type(2) :first-child {
         margin-bottom: 0;
     }
-
+    .galerie>figure>img:last-of-type {
+        margin-top: 1rem;
+    }
     .galerie>figure:nth-of-type(2) :last-child {
         
             margin-top: 0;
