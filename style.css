@@ -633,10 +633,11 @@ footer>section>nav>a>img{
         max-width: 700px;
     }
     
+    /*
     * {
         border: 1px solid red !important;
       }
-    
+    */
     
         body>main>section{
             width: 100%;
@@ -1022,11 +1023,11 @@ section{
     width: 100%;
     max-width: 400px;
 }
-
+/*
 * {
     border: 1px solid red !important;
   }
-
+*/
 
     body>main>section{
         width: 100%;
@@ -1304,3 +1305,4 @@ footer{
 
 
    }
+ 
