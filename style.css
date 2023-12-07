@@ -1039,6 +1039,8 @@ section{
 
     .HERO{
         padding-bottom: 2rem;
+        max-width: 480px;
+        justify-content: center;
     }
 .HERO>article>span{
     font-size: 3.3rem;}
@@ -1053,6 +1055,7 @@ section{
     .HERO>article>h1{
         padding-top: 22rem;
         font-size: 4rem;
+        margin-right: 0;
     }
 
 
@@ -1062,6 +1065,7 @@ section{
         padding-top: 1rem;
         padding-bottom: 1rem;
         padding-left: 0;
+        margin-right: 0;
 
     }
 
@@ -1305,4 +1309,41 @@ footer{
 
 
    }
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
